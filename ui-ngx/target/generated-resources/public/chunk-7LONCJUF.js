@@ -1,0 +1,1 @@
+import{e as n,j as o}from"./chunk-Z4H5XVQJ.js";var f=n((t,e)=>{o();(function(){ace.require(["ace/snippets/json"],function(c){typeof e=="object"&&typeof t=="object"&&e&&(e.exports=c)})})()});export default f();

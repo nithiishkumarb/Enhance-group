@@ -1,0 +1,1 @@
+import{e as f,j as t}from"./chunk-Z4H5XVQJ.js";var i=f((o,e)=>{t();(function(){ace.require(["ace/mode/text"],function(c){typeof e=="object"&&typeof o=="object"&&e&&(e.exports=c)})})()});export default i();
